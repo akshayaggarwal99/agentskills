@@ -7,7 +7,7 @@ Skills are folders of instructions and resources that teach Claude how to comple
 ## Installation
 
 ```bash
-pip install agentskills
+pip install askill
 ```
 
 Or install from source:

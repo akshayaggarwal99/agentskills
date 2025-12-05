@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "agentskills"
+name = "askill"
 version = "0.2.0"
 description = "CLI for browsing and installing skills from anthropics/skills"
 readme = "README.md"
